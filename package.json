@@ -1,0 +1,24 @@
+{
+  "name": "wordpress-auto",
+  "version": "1.0.0",
+  "description": "Demo project for Cypress automated testing of WordPress",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "cy:local": "npx cypress open --env fileConfig=local"
+  },
+  "keywords": [
+    "auto",
+    "e2e",
+    "demo"
+  ],
+  "author": "vskirko",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.2",
+    "cypress-real-events": "^1.10.3"
+  },
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}

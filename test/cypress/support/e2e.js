@@ -1,0 +1,11 @@
+import '../../../core/commands/login.js';
+import '../../../core/commands/menu-navigation.js';
+import '../../../core/commands/block-editor.js';
+import '../../../core/commands/post.js';
+import '../../../core/commands/admin-bar.js';
+import '../../../core/commands/all-posts.js';
+import '../../../core/commands/all-pages.js';
+import '../../../core/commands/all-plugins.js';
+import '../../../core/utils/random-utils.js';
+import '../../../core/utils/data-generator.js';
+import 'cypress-real-events/support';

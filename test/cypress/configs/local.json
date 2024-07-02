@@ -1,0 +1,7 @@
+{
+	"baseUrl": "http://wordpressautocom.local",
+	"env": {
+		"adminusername": "wpAdminUser",
+		"adminpassword": "Qwerty111!"
+	}
+}
